@@ -10,4 +10,7 @@
 3. 翻译的部分，能力有限，可能有些地方会显得生硬些，如果有好的建议，欢迎提出
 ## 联系
 如果对远程工作同样感兴趣的朋友，可以联系我，大家一起沟通  
-**EMAIL: sloanchang@yeah.net**
+**EMAIL: sloanchang@yeah.net** 
+
+或者加我微信进群：  
+![img](https://github.com/sloan-zhang/remote-work/blob/master/img/wx.jpg)
