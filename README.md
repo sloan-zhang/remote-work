@@ -4,6 +4,10 @@
 * [未来就业-零工经济的30个统计数据](https://github.com/sloan-zhang/remote-work/blob/master/Report/Statistics/%E6%9C%AA%E6%9D%A5%E5%B0%B1%E4%B8%9A-%E9%9B%B6%E5%B7%A5%E7%BB%8F%E6%B5%8E%E7%9A%8430%E4%B8%AA%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE.md)
 * [远程工作统计清单-2019版](https://github.com/sloan-zhang/remote-work/blob/master/Report/Statistics/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E7%BB%9F%E8%AE%A1%E6%B8%85%E5%8D%95-2019%E7%89%88.md)
 
+## 书籍资源
+* [从0到1-开启商业与未来的秘密](https://github.com/sloan-zhang/remote-work/blob/master/doc/%E4%BB%8E0%E5%88%B01-%E5%BC%80%E5%90%AF%E5%95%86%E4%B8%9A%E4%B8%8E%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%A7%98%E5%AF%86.pdf)
+* [零工经济](https://github.com/sloan-zhang/remote-work/tree/master/doc/%E9%9B%B6%E5%B7%A5%E7%BB%8F%E6%B5%8E)
+
 ## 说明
 1. 这个主题是刚创建的，在接下来会慢慢丰富
 2. 大家有好的资源也可以放进来，大家一起积土成山，集腋成裘
