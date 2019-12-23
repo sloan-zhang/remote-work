@@ -12,6 +12,42 @@
 * [The 4-Hour Workweek](https://github.com/sloan-zhang/remote-work/blob/master/doc/The%204-Hour%20Workweek.pdf)
 * [时间管理-如何充分利用你的24小时](https://github.com/sloan-zhang/remote-work/blob/master/doc/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E2%80%94%E2%80%94%E5%A6%82%E4%BD%95%E5%85%85%E5%88%86%E5%88%A9%E7%94%A8%E4%BD%A0%E7%9A%8424%E5%B0%8F%E6%97%B6.pdf)
 
+## 工作平台
+
+### 国外(网站字母排序)
+* [AngelList 创业工作网站](https://angel.co/)
+* [AuthenticJobs 有部分远程工作机会](http://www.authenticjobs.com/)
+* [Crossover 长期远程工作](https://www.crossover.com/)
+* [Coworks 自由职业者市场](https://coworks.com/)
+* [Dribble 艺术设计类](https://dribbble.com/jobs)
+* [FlexJobs 专业人士寻求远程办公、灵活安排兼职和自由职业的领先在线服务](https://www.flexjobs.com/)
+* [Fiverr 自由服务市场](https://www.fiverr.com/)
+* [Freelancer.com 自由职业众包市场](https://www.freelancer.com/)
+* [Freelancermap.com 本地远程](https://www.freelancermap.com/)
+* [GitHubJobs 开发者社区](https://jobs.github.com/)
+* [Gun.io web开发者自由平台](https://www.gun.io/)
+* [Guru 自由职业者平台](https://www.guru.com/)
+* [Jobspresso 专业策划远程工作](https://jobspresso.co/)
+* [Outsourcely 按工作类别浏览职位](https://www.outsourcely.com/)
+* [Remotive 邮件订阅工作机会与资讯](https://remotive.io/)
+* [Remote 远程工作资源](https://remote.co/)
+* [RemoteOK 互联网远程工作](https://remoteok.io/)
+* [RubyNow ruby开发者远程工作机会](https://jobs.rubynow.com/)
+* [SkipTheDrive 远程就业机会-免注册](https://www.skipthedrive.com/)
+* [StackOverflow 优秀人才社区](https://stackoverflow.com/)
+* [Toptal 自由职业者平台](https://www.toptal.com/)
+* [Upwork 自由职业者网站](https://www.upwork.com/)
+* [VirtualVocations 远程办公工作](https://www.virtualvocations.com/)
+* [WeWorkRemotely 远程办公机会推送-邮箱](https://weworkremotely.com/)
+* [WorkingNomads 数字游牧资讯推送-邮箱](https://www.workingnomads.co/jobs)
+
+### 国内(网站字母排序)
+* [电鸭社区 远程工作者社区](https://eleduck.com/)
+* [角马原力 自由职业者平台](http://www.gnuforce.com/)
+* [Indeed 邮件订阅工作资讯](https://cn.indeed.com/%E5%B7%A5%E4%BD%9C-%E8%BF%9C%E7%A8%8B%E5%8A%9E%E5%85%AC)
+* [程序员客栈 签约派单](https://www.proginn.com/)
+* [V2EX 话题网站](https://www.v2ex.com/)
+
 ## 说明
 1. 这个主题是刚创建的，在接下来会慢慢丰富
 2. 大家有好的资源也可以放进来，大家一起积土成山，集腋成裘
